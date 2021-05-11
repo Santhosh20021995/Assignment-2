@@ -1,0 +1,125 @@
+.topbar {
+    padding: 16px 78px;
+    background-color: #fff;
+    box-shadow: 1px 1px 1px 1px #000;
+  }
+  #dropdown {
+    color: #000;
+    font-size: 14px;
+    text-align: center;
+    padding: 50px;
+  }
+  .logo {
+    width: 130px;
+    font-size: 32px;
+    color: #0084ff;
+  }
+  @import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+  .text {
+    font-family: "Raleway", sans-serif;
+    margin: 0;
+    font-style: italic;
+    font-weight: 500;
+  }
+  .main {
+    text-align: center;
+  }
+  #container {
+    margin-bottom: 20px;
+    font-size: 16px;
+    padding-top: 16px;
+    text-align: left;
+    margin-left: 80px;
+  }
+  .heading {
+    font-weight: 600;
+    margin: 0;
+  }
+  .icon {
+    height: 14px;
+  }
+  .filtertext {
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 8px;
+  }
+  .categories {
+    margin: 5px;
+    padding: 6px 14px;
+    width: auto;
+    color: #0084ff;
+    border: 1px solid #0084ff;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  #active {
+    color: #fff;
+    background-color: #0084ff;
+  }
+  .line {
+    margin-top: 25px;
+  }
+  #next {
+    margin-top: 25px;
+    text-align: left;
+  }
+  .items {
+    width: 33.3%;
+  }
+  .story-item {
+    width: 300px;
+    display: inline-block;
+    text-align: left;
+    border: 1px solid rgba(0, 168, 255, 0.3);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    box-shadow: 0 0 12px #ccc;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    background-color: white;
+  }
+  
+  .story-item img {
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+  
+  .story-item-para {
+    padding: 5px 10px 10px 15px;
+  }
+  
+  .story-item h3 {
+    margin: 0;
+    font-weight: 500;
+  }
+  
+  .story-item p {
+    color: #ccc;
+    font-size: 16px;
+  }
+  
+  .story-item span {
+    margin-top: 10px;
+    display: inline-block;
+  }
+  
+  .story-item-wrapper {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .date-span {
+    font-family: sans-serif;
+    margin-left: 5px;
+    font-size: 16px;
+  }
+  .author-name {
+    color: #0096ff;
+  }
+  .foot {
+    background-color: #172146;
+    padding: 60px 16%;
+  }
+  
